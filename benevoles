@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>[Titre de la page] - Ja-VIZ-TA</title>
+    <title>Bénévoles - Ja-VIZ-TA</title>
     <link rel="stylesheet" href="style.css">
 </head>
 <body>
@@ -16,16 +16,15 @@
         <a href="contact.html">Nous contacter</a>
     </nav>
     <main>
-    <h1>Liste des bénévoles</h1>
-    <p>Cette page est réservée aux membres de l’association.</p>
-    <p>
-        <a href="https://cryptpad.fr/sheet/#/.../votre-tableau" target="_blank" rel="noopener noreferrer">
-            Accéder à la liste des bénévoles (CryptPad)
-        </a>
-    </p>
-    <p>Pour toute question, contactez-nous à <a href="mailto:contact@javizta.fr">contact@javizta.fr</a>.</p>
-</main>
-
+        <h1>Liste des bénévoles</h1>
+        <p>Cette liste est réservée aux membres de l’association. Cliquez sur le bouton ci-dessous pour y accéder :</p>
+        <p>
+            <a href="https://cryptpad.fr/sheet/#/3/sheet/edit/b01160012c95dd86da49b38aa5445b03/" target="_blank" rel="noopener noreferrer" class="button">
+                Accéder à la liste des bénévoles
+            </a>
+        </p>
+        <p>Pour toute question, contactez-nous à <a href="mailto:contact@javizta.fr">contact@javizta.fr</a>.</p>
+    </main>
     <footer>
         <p>Contact : contact@javizta.fr</p>
     </footer>
