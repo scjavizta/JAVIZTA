@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>[Titre de la page] - Ja-VIZ-TA</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <header>
+        <h1>Ja-VIZ-TA</h1>
+    </header>
+    <nav>
+        <a href="index.html">Accueil</a>
+        <a href="benevoles.html">Liste des bénévoles</a>
+        <a href="contact.html">Nous contacter</a>
+    </nav>
+    <main>
+        <!-- Contenu spécifique à chaque page -->
+    </main>
+    <footer>
+        <p>Contact : contact@javizta.fr</p>
+    </footer>
+</body>
+</html>
