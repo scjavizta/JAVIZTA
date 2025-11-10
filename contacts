@@ -16,8 +16,18 @@
         <a href="contact.html">Nous contacter</a>
     </nav>
     <main>
-        <!-- Contenu spécifique à chaque page -->
-    </main>
+    <h1>Nous contacter</h1>
+    <p>Pour nous rejoindre ou nous poser une question :</p>
+    <ul>
+        <li>
+            <a href="https://framaforms.org/.../votre-formulaire" target="_blank" rel="noopener noreferrer">
+                Devenir bénévole (formulaire en ligne)
+            </a>
+        </li>
+        <li>Email : <a href="mailto:contact@javizta.fr">contact@javizta.fr</a></li>
+    </ul>
+</main>
+
     <footer>
         <p>Contact : contact@javizta.fr</p>
     </footer>
