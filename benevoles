@@ -16,8 +16,16 @@
         <a href="contact.html">Nous contacter</a>
     </nav>
     <main>
-        <!-- Contenu spécifique à chaque page -->
-    </main>
+    <h1>Liste des bénévoles</h1>
+    <p>Cette page est réservée aux membres de l’association.</p>
+    <p>
+        <a href="https://cryptpad.fr/sheet/#/.../votre-tableau" target="_blank" rel="noopener noreferrer">
+            Accéder à la liste des bénévoles (CryptPad)
+        </a>
+    </p>
+    <p>Pour toute question, contactez-nous à <a href="mailto:contact@javizta.fr">contact@javizta.fr</a>.</p>
+</main>
+
     <footer>
         <p>Contact : contact@javizta.fr</p>
     </footer>
